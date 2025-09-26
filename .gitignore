@@ -1,3 +1,41 @@
+# Файлы сборки Visual Studio
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Файлы Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.suo
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+
+# Файлы CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Логи и временные файлы
+*.log
+*.idb
+*.pdb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.recipe
+
 # Prerequisites
 *.d
 
